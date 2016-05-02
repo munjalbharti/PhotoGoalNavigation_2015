@@ -1,2 +1,3 @@
-# PhotoGoalNavigation_2015
-Vision based target navigation for Parrot AR DRONE. Uses epipolar geometry methods to compute the target position of the quadcopter based on the current location and target image provided.
+# Photo Goal Navigation for Quadcopter
+
+Navigation to a target location using epipolar geometry methods [Detailed Report](https://github.com/amilgeorge/2015-PhotoGoalNavigation/blob/master/photo_goal_nav_report.pdf)
